@@ -2,7 +2,8 @@
 
 
 ## Introduction
-This repository presents the 15th place solution for the Zindi GEO-AI Challenge for Cropland Mapping by ITU that achieved accuracy on the private leaderboard.
+This repository presents the 15th place solution for the Zindi GEO-AI Challenge for Cropland Mapping by ITU that achieved 
+0.910476190 accuracy on the private leaderboard.
 This self-contained notebook is designed for an end-to-end experience without the need for additional files. It was developed on Google Colaboratory, where most dependencies are pre-installed. However, a few setup steps are required before you can start. You can find detailed instructions within the notebook:
 
 1. Install Optuna (a library for hyperparameter tuning)
